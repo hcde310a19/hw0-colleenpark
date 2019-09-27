@@ -1,3 +1,5 @@
 # Description of your program (part 7)
+They count the non space characters until finding space, and repeat until end of the document.
 
 # Reflection on writing your program (part 8)
+it was little bit hard to understand. especially, downloading process is not clear to do it. And also I think I need to learn about how to use git and pychram for upcoming assignments.
